@@ -1,5 +1,5 @@
 AWS.config.update({
-    accessKeyId : '',
-    secretAccessKey : ''
-    });
-    AWS.config.region = 'us-east-1';
+accessKeyId : 'ACCESS_KEY',
+secretAccessKey : 'SECRET_KEY'
+});
+AWS.config.region = 'TU REGION';
